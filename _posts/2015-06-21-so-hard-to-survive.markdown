@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "So hard to survive..."
+title:  "Etiology of mental ilness."
 date:   2014-05-24 23:52:38
 categories: survival
 ---
 
-Etiology of mental ilness. I know so much about it, close and personal. Let me tell you
-my story...
+Etiology of mental ilness... I know quite a lot about it, knowledge born of close and  
+personal experience. Stay with me, let me tell you my story...
 
 I have been looking for work for a really long time... Have listened to tons and tons of 
 bullshit, tolerated ridiculous unsults so many times, absorbed the projected fears, 
