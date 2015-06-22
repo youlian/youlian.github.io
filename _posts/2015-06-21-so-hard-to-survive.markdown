@@ -5,11 +5,14 @@ date:   2014-05-24 23:52:38
 categories: survival
 ---
 
-Etiology of mental ilness. I know so much about it, close and personal. I have been looking 
-for work for a really long time... Have listened to tons and tons of bullshit, tolerated 
-ridiculous unsults so many times, absorbed the projected fears, insecurities and ignorance 
-and more even ignorance of so many people... Boggles the mind and yet I tries to not pay 
-attention too much. Trouble is all that noise accumulates and poisons the mind...
+Etiology of mental ilness. I know so much about it, close and personal. Let me tell you
+my story...
+
+I have been looking for work for a really long time... Have listened to tons and tons of 
+bullshit, tolerated ridiculous unsults so many times, absorbed the projected fears, 
+insecurities and ignorance and more even ignorance of so many people... Boggles the mind 
+and yet I tries to not pay attention too much. Trouble is all that noise accumulates and 
+poisons the mind...
 
 No meaningful results, no way to support myself in a honest way... Rejection, exclusion, 
 marginalization... total, complete and permanent. Enforced  by a socirety that pretends the 
