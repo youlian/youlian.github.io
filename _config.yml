@@ -1,8 +1,8 @@
 # Site settings
-title: "Typewriter"
-description: "So I was feeling nostalgic."
+title: "Old School Software Developer (started in 1984)"
+description: "Please help me not become homeless. Please. Please. Please."
 baseurl: ""
-url: "http://alixedi.github.io"
+url: "http://youlian.github.io"
 
 # Build settings
 markdown: kramdown
@@ -15,8 +15,7 @@ links:
   - title: "abt"
     url: /about
   - title: "twt"
-    url: http://twitter.com/alixedi
+    url: http://twitter.com/_youlian
   - title: "git"
-    url: http://github.com/alixedi
-  - title: "rss"
-    url: /feed.xml
+    url: http://github.com/youlian
+
