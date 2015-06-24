@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Etiology of mental illness."
+title:  "Etiology of Mental Illness."
 date:   2014-05-24 23:52:38
 categories: survival
 ---
