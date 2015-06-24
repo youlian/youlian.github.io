@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Born in 1971.
+Started programming in assembly language on Apple ][ in 1984.
+Prefer Scala.
+Old school.
+Fiercely independent in thought.
+Extremely low tolerance for bullshit.
+Well versed in medieval Indian religious literature in Sanskrit in mind enhancing and entheogenic substances and a myriad other topics.
+Enjoy reading philosophy in French.
+Looking for work.
